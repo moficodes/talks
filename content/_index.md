@@ -1,7 +1,7 @@
 ---
 title: "Home"
 date: 2021-03-25T13:03:46-04:00
-draft: true
+draft: false
 ---
 
 # Past Talks
