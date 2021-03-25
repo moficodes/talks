@@ -1,4 +1,63 @@
 baseURL = "http://moficodes.github.io/talks"
 languageCode = "en-us"
 title = "Talks"
-theme = "ananke"
+theme = "anatole"
+
+[params]
+title = "I'm moficodes"
+author = "Mofi Rahman"
+copyright = "2020-2021"
+description = "List of past speaking engagements and featured talks."
+profilePicture = "images/profile.png"
+keywords = ""
+favicon = "favicons/"
+# example ["css/custom.css"]
+customCss = []
+# example ["js/custom.js"]
+customJs = [] 
+mainSections = []
+images = ["images/site-feature-image.png"]
+doNotLoadAnimations = false
+
+## Social links
+# use 'fab' when brand icons, use 'fas' when standard solid icons.
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "Linkedin"
+url = "https://twitter.com/moficodes"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://linkedin.com/in/moficodes"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/moficodes"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:moficodes@gmail.com"
+
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Talks"
+  weight = 200
+  identifier = "talks"
+  url = "/talks/"
+
+  [[menu.main]]
+  name = "About"
+  weight = 300
+  identifier = "about"
+  url = "/about/"
