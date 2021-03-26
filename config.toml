@@ -1,4 +1,4 @@
-baseURL = "https://moficodes.github.io/talks"
+baseURL = "https://speaking.moficodes.dev"
 languageCode = "en-us"
 title = "Talks"
 theme = "anatole"
