@@ -9,13 +9,14 @@ draft: false
 ## 2021
 * Kubernetes AI Day (Kubecon)
 * Data Love Conference
-* Conf42
+* [Conf42 Cloud Native [Video]](https://www.youtube.com/watch?v=FGfsf2pyF5Y)
 
 ## 2020
 * Developer Week
 * [DevOpsDays Geneva [Video]](https://youtu.be/G5QrdopWBXs)
 * DevOpsDays Prague
 * DevOpsDays Guadalajara
+* [DevOpsDays NYC [Video]](https://www.youtube.com/watch?v=GwTo8lxBXwE) 
 * Container Days
 * Code Camp SDQ
 
