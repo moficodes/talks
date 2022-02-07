@@ -57,6 +57,12 @@ url = "mailto:moficodes@gmail.com"
   url = "/talks/"
 
   [[menu.main]]
+  name = "Workshops"
+  weight = 200
+  identifier = "workshops"
+  url = "/workshops/"
+
+  [[menu.main]]
   name = "About"
   weight = 300
   identifier = "about"
