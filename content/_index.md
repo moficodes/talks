@@ -6,6 +6,9 @@ draft: false
 
 # Past Talks
 
+## 2022
+* DevOpsDays Prague
+
 ## 2021
 * Kubernetes AI Day (Kubecon)
 * Data Love Conference
