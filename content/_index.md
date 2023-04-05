@@ -6,10 +6,17 @@ draft: false
 
 # Past Talks
 
+## 2023
+
+* [Scale 20x [Video]](https://youtu.be/E-ww5strzjg)
+* Kuberentes Community Days LA
+
 ## 2022
+
 * DevOpsDays Prague
 
 ## 2021
+
 * Kubernetes AI Day (Kubecon)
 * Data Love Conference
 * [Conf42 Cloud Native [Video]](https://www.youtube.com/watch?v=FGfsf2pyF5Y)

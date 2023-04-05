@@ -6,7 +6,7 @@ theme = "anatole"
 [params]
 title = "I'm moficodes"
 author = "Mofi Rahman"
-copyright = "2020-2021"
+copyright = "2020-2023"
 description = "List of past speaking engagements and featured talks."
 profilePicture = "images/profile.png"
 keywords = ""
