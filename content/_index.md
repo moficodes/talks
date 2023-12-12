@@ -8,25 +8,26 @@ draft: false
 
 ## 2023
 
-* [Scale 20x [Video]](https://youtu.be/E-ww5strzjg)
-* Kuberentes Community Days LA
+* [State of Kubernetes Observability @Scale 20x [Video]](https://youtu.be/E-ww5strzjg)
+* Running Batch Workload on Kubernetes at Scale @Kuberentes Community Days LA
 
 ## 2022
 
-* DevOpsDays Prague
+* You Probably Don't Need Kubernetes @DevOpsDays Prague
+* The Cost of Scale @Caribbean Developers Conference
 
 ## 2021
 
-* Kubernetes AI Day (Kubecon)
+* Taming the Beast, Managing day 2 Complexity of Kubeflow, @Kubernetes AI Day (Kubecon)
 * Data Love Conference
-* [Conf42 Cloud Native [Video]](https://www.youtube.com/watch?v=FGfsf2pyF5Y)
+* [Kubernetes Security Jumpstart @Conf42 Cloud Native [Video]](https://www.youtube.com/watch?v=FGfsf2pyF5Y)
 
 ## 2020
 * Developer Week
-* [DevOpsDays Geneva [Video]](https://youtu.be/G5QrdopWBXs)
+* [Kubernetes Security Jumpstart @DevOpsDays Geneva [Video]](https://youtu.be/G5QrdopWBXs)
 * DevOpsDays Prague
 * DevOpsDays Guadalajara
-* [DevOpsDays NYC [Video]](https://www.youtube.com/watch?v=GwTo8lxBXwE) 
+* [You Probably Don't Need Kubernetes @DevOpsDays NYC [Video]](https://www.youtube.com/watch?v=GwTo8lxBXwE) 
 * Container Days
 * Code Camp SDQ
 
