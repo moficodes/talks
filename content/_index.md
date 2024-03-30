@@ -6,6 +6,10 @@ draft: false
 
 # Past Talks
 
+## 2024
+
+* [Navigating the Processing Unit Landscape in Kubernetes for AI Use Cases [Video]](https://youtu.be/195X1yItSLc) Kubecon Eu 2024
+
 ## 2023
 
 * [State of Kubernetes Observability @Scale 20x [Video]](https://youtu.be/E-ww5strzjg)
