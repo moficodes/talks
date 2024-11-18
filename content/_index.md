@@ -8,7 +8,9 @@ draft: false
 
 ## 2024
 
-* [Navigating the Processing Unit Landscape in Kubernetes for AI Use Cases [Video]](https://youtu.be/195X1yItSLc) Kubecon Eu 2024
+* [Introduction to Distributed ML Workloads with Ray on Kubernetes](https://youtu.be/M5FAI2kmcdE?si=qSzq6POqyUQxU2hn) Kubecon NA 2024
+
+* [Navigating the Processing Unit Landscape in Kubernetes for AI Use Cases [Video]](https://youtu.be/195X1yItSLc) Kubecon EU 2024
 
 ## 2023
 
