@@ -4,13 +4,13 @@ title = "Talks"
 theme = "anatole"
 
 [params]
-title = "I'm moficodes"
+title = "I'm Mofi"
 author = "Mofi Rahman"
-copyright = "2020-2023"
+copyright = "2018-2024"
 description = "List of past speaking engagements and featured talks."
 profilePicture = "images/profile.png"
 keywords = ""
-favicon = "favicons/"
+favicon = "/"
 # example ["css/custom.css"]
 customCss = []
 # example ["js/custom.js"]
