@@ -6,6 +6,10 @@ draft: false
 
 # Past Talks
 
+## 2025
+
+* [Yes! You can Run LLMs on Kubernetes [Video]](https://youtu.be/thCZDKZ1cAM?si=DHejBJtiMntxrm6H) Kubecon EU 2025
+
 ## 2024
 
 * [Introduction to Distributed ML Workloads with Ray on Kubernetes [Video]](https://youtu.be/M5FAI2kmcdE?si=qSzq6POqyUQxU2hn) Kubecon NA 2024
