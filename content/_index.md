@@ -8,6 +8,7 @@ draft: false
 
 ## 2025
 
+* [In-Place Pod Resize in Kubernetes: Dynamic Resource Management Without Restarts](https://youtu.be/HuC4k7fmTBk?si=Pwc5h7cOraBIIO1j) Kubecon NA 2025
 * [Yes! You can Run LLMs on Kubernetes [Video]](https://youtu.be/thCZDKZ1cAM?si=DHejBJtiMntxrm6H) Kubecon EU 2025
 
 ## 2024
